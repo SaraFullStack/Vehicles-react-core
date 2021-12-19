@@ -1,2 +1,2 @@
 # Vehiculos-react-core
-Aplicacion Web con react redux y api Rest net core (swagger)
+CRUD con react (redux) y .netCore

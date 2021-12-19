@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b408957d-1620-4536-96d0-a9c9eb5653ff": {
+      "ProjectGuid": "b408957d-1620-4536-96d0-a9c9eb5653ff",
+      "DisplayName": "Vehicles_back",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "2e616969-ecb2-41b6-88b3-537985f60091": {
+      "ProjectGuid": "2e616969-ecb2-41b6-88b3-537985f60091",
+      "DisplayName": "docker",
+      "ColorIndex": 1
+    },
+    "47d5233a-a124-4c22-8540-df0a6c2df7a9": {
+      "ProjectGuid": "47d5233a-a124-4c22-8540-df0a6c2df7a9",
+      "DisplayName": "db",
+      "ColorIndex": 2
+    },
+    "febf0592-62fc-4fb9-b54b-58d6e75432f3": {
+      "ProjectGuid": "febf0592-62fc-4fb9-b54b-58d6e75432f3",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
